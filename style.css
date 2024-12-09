@@ -24,7 +24,7 @@ video {
     width: auto;
     height: auto;
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -39,7 +39,7 @@ video {
 
 header {
     padding: 1rem;
-    background-color: rgba(0, 0, 0, 0); /* 背景半透明 */
+    background-color: rgba(0, 0, 0, 0.5); /* 背景半透明 */
 }
 
 footer {
